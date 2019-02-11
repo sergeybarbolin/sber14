@@ -1,2 +1,0 @@
-# sber14
-landing

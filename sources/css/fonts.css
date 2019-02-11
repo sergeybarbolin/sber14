@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller-200-normal.eot');
+    src: url('../fonts/muller-200-normal.woff') format('woff'), url('../fonts/muller-200-normal.ttf') format('truetype'), url('../fonts/muller-200-normal.svg') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller-300-normal.eot');
+    src: url('../fonts/muller-300-normal.woff') format('woff'), url('../fonts/muller-300-normal.ttf') format('truetype'), url('../fonts/muller-300-normal.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller-400-normal.eot');
+    src: url('../fonts/muller-400-normal.woff') format('woff'), url('../fonts/muller-400-normal.ttf') format('truetype'), url('../fonts/muller-400-normal.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Muller';
+    src: url('../fonts/muller-900-normal.eot');
+    src: url('../fonts/muller-900-normal.woff') format('woff'), url('../fonts/muller-900-normal.ttf') format('truetype'), url('../fonts/muller-900-normal.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
